@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Azagal7700
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-Azagal7700/Azagal7700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align='center'> ✍🏼 My GitHub statistics</h2>
+<div align='center'>
+
+[![Kadir's Github Stats](https://github-readme-stats.vercel.app/api?username=KadirOffi&show_icons=true)](https://github.com/KadirOffi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadirOffi)](https://github.com/anuraghazra/github-readme-stats)</div>
